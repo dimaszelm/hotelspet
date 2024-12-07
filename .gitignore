@@ -1,0 +1,5 @@
+.env
+.env-non-dev
+.venv
+__pycache__/
+__idea__/
