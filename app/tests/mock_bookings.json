@@ -1,0 +1,29 @@
+[
+    {
+        "room_id": 1,
+        "user_id": 1,
+        "date_from": "2024-12-01",
+        "date_to": "2024-12-05",
+        "price": 150,
+        "total_cost": 600,
+        "total_days": 4
+    },
+    {
+        "room_id": 3,
+        "user_id": 2,
+        "date_from": "2024-12-10",
+        "date_to": "2024-12-15",
+        "price": 300,
+        "total_cost": 1500,
+        "total_days": 5
+    },
+    {
+        "room_id": 4,
+        "user_id": 3,
+        "date_from": "2024-12-20",
+        "date_to": "2024-12-25",
+        "price": 200,
+        "total_cost": 1000,
+        "total_days": 5
+    }
+]

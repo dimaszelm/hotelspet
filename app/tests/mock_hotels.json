@@ -1,0 +1,23 @@
+[
+    {
+        "name": "Grand Hotel",
+        "location": "123 Main St, Springfield",
+        "services": ["Wi-Fi", "Breakfast", "Pool"],
+        "rooms_quantity": 50,
+        "image_id": 101
+    },
+    {
+        "name": "Beachside Resort",
+        "location": "456 Ocean Ave, Seaside",
+        "services": ["Wi-Fi", "Parking", "Ocean View"],
+        "rooms_quantity": 30,
+        "image_id": 102
+    },
+    {
+        "name": "Mountain Inn",
+        "location": "789 Mountain Rd, Hilltown",
+        "services": ["Wi-Fi", "Ski Rentals", "Hot Tub"],
+        "rooms_quantity": 20,
+        "image_id": 103
+    }
+]
