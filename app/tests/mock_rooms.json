@@ -1,0 +1,38 @@
+[
+    {
+        "hotel_id": 1,
+        "name": "Deluxe Room",
+        "description": "Spacious room with king-size bed and city view.",
+        "price": 150,
+        "services": ["Air Conditioning", "TV", "Minibar"],
+        "quantity": 10,
+        "image_id": 201
+    },
+    {
+        "hotel_id": 1,
+        "name": "Standard Room",
+        "description": "Cozy room with queen-size bed.",
+        "price": 100,
+        "services": ["Wi-Fi", "TV"],
+        "quantity": 20,
+        "image_id": 202
+    },
+    {
+        "hotel_id": 2,
+        "name": "Ocean View Suite",
+        "description": "Luxury suite with balcony overlooking the ocean.",
+        "price": 300,
+        "services": ["Wi-Fi", "Jacuzzi", "Balcony"],
+        "quantity": 5,
+        "image_id": 203
+    },
+    {
+        "hotel_id": 3,
+        "name": "Ski Lodge Room",
+        "description": "Cozy room with a fireplace near the slopes.",
+        "price": 200,
+        "services": ["Fireplace", "Ski Storage"],
+        "quantity": 8,
+        "image_id": 204
+    }
+]
